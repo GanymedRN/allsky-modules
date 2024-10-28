@@ -1,3 +1,8 @@
+
+// Program to respond to Alpaca device discovery
+
+
+
 #include <Arduino.h>
 
 #include "WiFi.h"
